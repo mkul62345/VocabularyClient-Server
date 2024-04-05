@@ -1,0 +1,20 @@
+{
+    "Action": "GET",
+    "Head": {
+        "UserName": "Dror",
+        "UserPass": "123",
+        "Score": "7",
+    },
+    "Body": {
+        "PollText": "Villain",
+        "CorrectAnswer": "1",
+        "SelectedAnswer": "7",
+        "Options": [
+            "Drake",
+            "Josh",
+            "Dark",
+            "Light",
+            "Good"
+        ]
+    }
+}
